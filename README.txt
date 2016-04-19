@@ -1,3 +1,8 @@
+***Overview***
+This project is created for Mr. Sivutha to make the lamp turn on and of using javascript and PHP
+
+
+***How to config***
 Please follow thes folling step to config your project
 1. Update database to any DBMS that you use, you can find in
 2. Set up base URL of javascript:
